@@ -4,7 +4,7 @@ A bus powered usb device that emulates a mouse by moving the pointer in a circle
 LED will flash every second when there is power seen on the bus but hasn't configured with the device.  LED will stay on and stop flashing when it has successfully communicated with the device and will begin moving the mouse pointer in a circle.
 
 ## Schematic
-![pic](https://github.com/AryllPetersen/mouse-emulator/blob/main/schematic.jpg?raw=true)
+![pic](https://github.com/AryllPetersen/mouse-emulator/blob/main/schematic%20v2.jpg?raw=true)
 
 ## Project Details
 
